@@ -36,5 +36,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ardhansu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+  <a href="mailto:ardhansudas234@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
