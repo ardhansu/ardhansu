@@ -36,7 +36,7 @@
 ### 🔗 Let's Connect!
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ardhansu/](https://www.linkedin.com/in/ardhansu-das-203293257/)" target="_blank">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/ardhansu-das-203293257/" target="_blank">LinkedIn</a> • 
   <a href="mailto:ardhansudas234@gmail.com">Email</a> • 
   <a href="https://github.com/ardhansu" target="_blank">GitHub</a>
 </p>
